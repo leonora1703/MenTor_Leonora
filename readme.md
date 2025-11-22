@@ -111,6 +111,9 @@ For initial testing, you can use the following admin credentials:
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
 
+## Leonora contribution
+My name is Kumbong Leonora Bih and this is my contribution
+
 
 ## 📞 Support
 
