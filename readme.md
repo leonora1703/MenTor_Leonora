@@ -1,4 +1,4 @@
-# MenTor 🎓
+ # MenTor 🎓
 
 MenTor is a comprehensive web-based student management system designed to streamline academic and administrative processes for educational institutions. It provides functionalities for managing students, courses, enrollments, grades, programs, and schools, offering distinct dashboards for both administrators and students.
 
